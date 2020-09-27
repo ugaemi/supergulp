@@ -1,0 +1,27 @@
+{
+  "name": "supergulp",
+  "version": "1.0.0",
+  "description": "Learn Gulp by building an awesome development environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "gulp dev",
+    "build": "gulp build"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "@babel/core": "^7.11.6",
+    "@babel/preset-env": "^7.11.5",
+    "@babel/register": "^7.11.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ugaemi/supergulp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ugaemi/supergulp/issues"
+  },
+  "homepage": "https://github.com/ugaemi/supergulp#readme"
+}
